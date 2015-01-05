@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #This simple script I wrote to import Mac Safari bookmarks one time only
-# on the new user creation. This is to help provision of bookmarks to new
+# on the new user creation. Please copy the corporate file to /tmp/Bookmarks.plist.
+# This is to help provision of bookmarks to new
 # users on Mac enterprises.
 # by Matt the mac consultant - mrmstevenson@gmail.com 
 
