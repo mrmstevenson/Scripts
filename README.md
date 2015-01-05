@@ -1,6 +1,6 @@
 VMware Fusion 7 license script for OS X
-by mrmstevenson@gmail.com
 ============
+by Matt the mac consultant - mrmstevenson@gmail.com 
 
 VMware Fusion licenser script to help with Enterprise deployments with packaging VMware fusion deployment in packages to volumes of Mac OS X.
 
