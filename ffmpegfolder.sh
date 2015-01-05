@@ -1,5 +1,5 @@
 #!/bin/bash
-# This Mac bash script uses FFMPEG convert a folder full or MP4 files and to audio and and then delete the MP4 files when done
+# This Mac bash script uses FFMPEG to convert a folder of MP4 files into audio, then deletes the MP4 files when done
 # For FFMPEG  download https://www.ffmpeg.org/download.html
 # I found this to be usefull for batch conversions jobs. It may help if you have written a folder watcher. 
 # Amend the location of the Movies folder to suit
